@@ -1,0 +1,14 @@
+.btn-warning{
+	background-color: hotpink;
+	color: white;
+}
+
+.btn-warning:hover {
+	background-color: black;
+	color: white;
+}
+
+.col {
+	background-color: lavender;
+	border: 2px solid yellow;
+}
